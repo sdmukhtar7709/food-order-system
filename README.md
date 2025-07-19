@@ -1,4 +1,4 @@
-A simple and user-friendly web application that allows users to browse a menu, add items to the cart, place orders, and track status. Ideal for restaurants, cafes, or online food startups.
+A useful and user-friendly web application that allows users to browse a menu, add items to the cart, place orders, and track status. Ideal for restaurants, cafes, or online food startups.
 
 
 
