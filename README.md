@@ -3,6 +3,7 @@ A simple and user-friendly web application that allows users to browse a menu, a
 
 
 🚀 Features
+
 🧾 Browse menu items by category (e.g., Pizza, Drinks, Desserts)
 
 ➕ Add/remove items from the cart
@@ -18,6 +19,7 @@ A simple and user-friendly web application that allows users to browse a menu, a
 
 
 🛠️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript 
 
 Backend: PHP, xampp 
